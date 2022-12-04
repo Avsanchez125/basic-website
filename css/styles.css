@@ -1,0 +1,140 @@
+body {
+    color: #344441;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #11999E;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    color: #11999E;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #07588A;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #94baba 6px;
+    border-bottom: none;
+    border-width: 6px;
+    width: 3%;
+    margin: 100px auto;
+}
+
+a {
+    color: #07588A;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    font-size: 1.1rem;
+}
+
+a:hover {
+    color: #ffffff;
+}
+.top-container {
+    background-color: #E1F6F4;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    background-color: #BFE9DB;
+    padding: 100px 0;
+}
+
+.bottom-container {
+    background-color: #6AC1B8;
+    padding: 50px 0 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.art-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+
+.pfp {
+    width: 10%;
+    margin: 60px auto 0 auto;
+}
+
+.contact-message {
+    width: 35%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    margin: 0;
+    color: #ffffff;
+    font-size: 0.75rem;
+    padding: 20px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    background: #0382b0;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    background: #33abf5;
+    text-decoration: none;
+}
